@@ -28,7 +28,7 @@ A comprehensive NestJS boilerplate with MongoDB, JWT authentication, file upload
 
 1. **Clone and install dependencies:**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Jayakrishnan-mk/NestJs-MongoDB--Boilerplate.git)
    cd project-name
    npm install
    ```
