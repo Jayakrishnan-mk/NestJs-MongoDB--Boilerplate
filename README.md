@@ -1,4 +1,4 @@
-# project-name - NestJS Boilerplate
+# NestJS Boilerplate
 
 A comprehensive NestJS boilerplate with MongoDB, JWT authentication, file upload, Redis caching, and rate limiting.
 
